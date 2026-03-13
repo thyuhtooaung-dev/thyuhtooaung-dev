@@ -25,6 +25,9 @@
 
 <hr style="border: 0.5px solid #222; margin: 20px 0;"/>
 
+<br>
+<br>
+
 <h2 align="center"> 
   <img src="/imgs/title2.png" width="25"/> <em>Technologies</em> 
 </h2>
