@@ -4,13 +4,13 @@
   <a href="https://x.com/Poung_Mont" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/thyuhtooaung.dev" target="_blank">
+  <a href="https://www.facebook.com/poungmont.dev" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/PoungMont/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.frontendmentor.io/profile/poungmont.dev" target="_blank">
+  <a href="https://www.frontendmentor.io/profile/thyuhtooaung-dev" target="_blank">
     <img src="https://img.shields.io/badge/Frontend_Mentor-000000?style=for-the-badge&logo=frontendmentor&logoColor=white" />
   </a>
   <a href="https://www.chess.com/member/PoungMont" target="_blank">
