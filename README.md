@@ -1,4 +1,4 @@
-<img src="githubanner.JPG" width="100%" alt="banner icon"/>
+<img src="./banner.gif" width="100%" alt="banner icon"/>
 
 <p align="center">
   <a href="https://x.com/Poung_Mont" target="_blank">
@@ -20,8 +20,12 @@
 
 <br/>
 
+---
+
+<br/>
+
 <h2 align="center"> 
-  <img src="/imgs/title1.png" width="25"/> <em>About me</em>
+  <em>About me</em>
 </h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="220" align="right" style="margin-left: 20px;" />
@@ -41,44 +45,101 @@
   <img src="https://img.shields.io/badge/Cloud-004088?style=for-the-badge&logo=icloud&logoColor=white" height="22"/>
 </p>
 
-<hr style="border: 0.5px solid #222; margin: 20px 0;"/>
+<br/>
 
-<br>
-<br>
+---
 
-<h2 align="center"> 
-  <img src="/imgs/title2.png" width="25"/> <em>Technologies</em> 
+<br/>
+
+<div align="center">
+
+<h2> 
+  <em>Technologies</em> 
 </h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<br/>
+
+<h3>Frontend</h3>
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-000000?style=flat&logo=vite&logoColor=white)
+![Zustand](https://img.shields.io/badge/ZUSTAND-000000?style=flat&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TANSTACK_QUERY-000000?style=flat&logo=reactquery&logoColor=white)
+
+<br/>
+
+<h3>Backend</h3>
+
+![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NESTJS-000000?style=flat&logo=nestjs&logoColor=white)
+
+<br/>
+
+<h3>Tools & DevOps</h3>
+
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat&logo=githubactions&logoColor=white)
+
+<br/>
+
+<h3>Team Collaboration</h3>
+<p>
+Experienced in team development using <b>GitHub</b>, pull requests, code reviews, and structured workflows.
 </p>
+  
+</div>
+
+<br/>
+
+---
 
 <br/>
 
 <h2 align="center"> 
-  <img src="/imgs/title3.png" width="25"/> <em>Statistics</em> 
+   <em>Statistics</em> 
 </h2>
 
+<br/>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h4>Most Used Languages</h4>
+      <img 
+        src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=thyuhtooaung-dev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+        alt="Top Languages"
+      />
+    </td>
+    <td width="50%" align="center">
+      <h4>GitHub Stats</h4>
+      <img 
+        src="https://github-readme-stats-two-beta-28.vercel.app/api?username=thyuhtooaung-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+        alt="GitHub Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <div align="center"> 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thyuhtooaung-dev&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thyuhtooaung-dev&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401" alt="GitHub Streak" />
+</div>
 
-<br/><br/>
+<br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thyuhtooaung-dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+---
+
+<br/>
+
+<div align="center">
+  <h2><em>Contribution Graph</em></h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thyuhtooaung-dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
 </div>
