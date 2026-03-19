@@ -1,4 +1,4 @@
-<img src="./banner.gif" width="100%" alt="banner icon"/>
+<img src="/banner.gif" width="100%" alt="banner icon"/>
 
 <p align="center">
   <a href="https://x.com/Poung_Mont" target="_blank">
