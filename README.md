@@ -78,6 +78,7 @@
 ![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NESTJS-000000?style=flat&logo=nestjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/SOCKET.IO-000000?style=flat&logo=socket.io&logoColor=white)
 
 <br/>
 
