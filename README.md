@@ -112,14 +112,12 @@ Experienced in team development using <b>GitHub</b>, pull requests, code reviews
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <h4>Most Used Languages</h4>
       <img 
         src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=thyuhtooaung-dev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
         alt="Top Languages"
       />
     </td>
     <td width="50%" align="center">
-      <h4>GitHub Stats</h4>
       <img 
         src="https://github-readme-stats-two-beta-28.vercel.app/api?username=thyuhtooaung-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
         alt="GitHub Stats"
@@ -131,7 +129,7 @@ Experienced in team development using <b>GitHub</b>, pull requests, code reviews
 <br/>
 
 <div align="center"> 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thyuhtooaung-dev&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thyuhtooaung-dev&theme=highcontrast&border_radius=5&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
