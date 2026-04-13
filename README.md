@@ -124,17 +124,17 @@ I am a dedicated Fullstack Developer with a deep passion for mastering emerging 
 </div>
 <br>
 
+---
+
 ### Let's Connect
+
+<br>
 
 <div align="center">
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Reach out to me via **Gmail**.
 
 [![Gmail](https://img.shields.io/badge/Gmail-thyuhtoo7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thyuhtoo7@gmail.com)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=thyuhtooaung-dev&label=Profile%20Views&color=D14836&style=flat-square" alt="Profile Views" />
 
 </div>
 
