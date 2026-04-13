@@ -55,17 +55,17 @@ I am a dedicated Fullstack Developer with a deep passion for mastering emerging 
 
 <div align="center">
 
-**Frontend Architecture**<br/>
+**Frontend Architecture** <br/><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" height="45" />
 
-<br/><br/>
+<br/>
 
-**Backend Engineering**<br/>
+**Backend Engineering** <br/><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="45" />
 
-<br/><br/>
+<br/>
 
-**DevOps & Workflow**<br/>
+**DevOps & Workflow** <br/><br>
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" height="45" />
 
 </div>
@@ -78,16 +78,15 @@ I am a dedicated Fullstack Developer with a deep passion for mastering emerging 
 <div align="center">
   <img 
     src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=thyuhtooaung-dev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&langs_count=8" 
-    width="32%" 
+    width="38%" 
     alt="Top Languages"
   />
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=thyuhtooaung-dev&bg_color=000000&color=ffffff&line=555555&point=ffffff&area=true&hide_border=true" 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=thyuhtooaung-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" 
     width="50%" 
-    alt="Contribution Graph" 
+    alt="GitHub Stats"
   />
 </div>
-
 <br/>
 
 ---
@@ -110,12 +109,12 @@ I am a dedicated Fullstack Developer with a deep passion for mastering emerging 
       Playing the game
     </td>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVycjh1ejFydnBtcHBraWZiOXNxazhlN3kyOTRsMXc2YjV5NDFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /><br>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJkM253azkycndoZndqeG16dGl1MzhqYjR5eWVweDU1M3JpYTB4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="100" /><br>
       <b>Side Projects</b><br>
       Learning & building
     </td>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="100" /><br>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXcwYno4bmF1amNvNHllNXdicnp6NmZmbTF0aXo1emxsMjA4MWE5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SnuLBCX3ridLZA0ji4/giphy.gif" width="100" /><br>
       <b>Reading</b><br>
       Expanding knowledge
     </td>
