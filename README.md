@@ -34,23 +34,24 @@
 
 ### About Me
 
-<img align="right" width="400" src="/transparent_gif.gif" alt="coding gif" />
+<img align="right" width="250" src="/SMOL.gif" alt="coding gif" />
 
-I have a profound passion for mastering new technologies and solving complex puzzles—whether I'm debugging in a code editor or strategizing on a chessboard. My current focus is on building highly interactive, scalable web applications that push the limits of modern architecture.
+I am a dedicated Fullstack Developer with a deep passion for mastering emerging technologies and solving complex logic puzzles. You will often find me architecting new features in my code editor or planning strategic sequences on the chessboard, as I thrive on a good challenge in any form. Right now, my primary focus is on building highly interactive, scalable web applications that push the boundaries of modern design and architecture.
+
+<br/>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Currently_Learning-000000?style=flat-square&logo=bookstack&logoColor=white" height="22"/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="22"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Cloud-004088?style=for-the-badge&logo=icloud&logoColor=white" height="22"/>
+  <strong>Currently Learning:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=react,ts,nestjs,aws" height="40" style="margin-top: 10px;" />
 </p>
 
 <br clear="both"/>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
+
+<br>
 
 <div align="center">
 
@@ -69,31 +70,56 @@ I have a profound passion for mastering new technologies and solving complex puz
 
 </div>
 
-<br/>
-
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
+<br>
 <div align="center">
   <img 
     src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=thyuhtooaung-dev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&langs_count=8" 
-    width="48%" 
+    width="32%" 
     alt="Top Languages"
   />
   <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=thyuhtooaung-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" 
-    width="48%" 
-    alt="GitHub Stats"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=thyuhtooaung-dev&bg_color=000000&color=ffffff&line=555555&point=ffffff&area=true&hide_border=true" 
+    width="50%" 
+    alt="Contribution Graph" 
   />
 </div>
 
 <br/>
 
+---
+
+### Beyond Code
+<br>
+
 <div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=thyuhtooaung-dev&bg_color=000000&color=ffffff&line=555555&point=ffffff&area=true&hide_border=true" 
-    width="100%" 
-    alt="Contribution Graph" 
-  />
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/3o7ZetIsjtbkgNE1I4/giphy.gif" width="100" /><br>
+      <b>Running</b><br>
+      Hitting the pavement
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl5dzJ3aGl2Y2V4M2hxN3BhYmJ6NGdyZWlrOTlhYTBvNjYzYmNhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ae7SI3LoPYj8Q/giphy.gif" width="100" /><br>
+      <b>Football</b><br>
+      Playing the game
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVycjh1ejFydnBtcHBraWZiOXNxazhlN3kyOTRsMXc2YjV5NDFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /><br>
+      <b>Side Projects</b><br>
+      Learning & building
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="100" /><br>
+      <b>Reading</b><br>
+      Expanding knowledge
+    </td>
+  </tr>
+</table>
+
 </div>
