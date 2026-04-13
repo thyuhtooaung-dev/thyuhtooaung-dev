@@ -41,7 +41,7 @@ I am a dedicated Fullstack Developer with a deep passion for mastering emerging 
 <br/>
 
 <p align="left">
-  <strong>Currently Learning:</strong><br/>
+  <strong>Currently Learning:</strong><br/><br>
   <img src="https://skillicons.dev/icons?i=react,ts,nestjs,aws" height="40" style="margin-top: 10px;" />
 </p>
 
@@ -99,22 +99,22 @@ I am a dedicated Fullstack Developer with a deep passion for mastering emerging 
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/3o7ZetIsjtbkgNE1I4/giphy.gif" width="100" /><br>
+      <img src="/gifs/Tom%20Hanks%20Running%20GIF.gif" width="100" /><br>
       <b>Running</b><br>
       Hitting the pavement
     </td>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl5dzJ3aGl2Y2V4M2hxN3BhYmJ6NGdyZWlrOTlhYTBvNjYzYmNhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ae7SI3LoPYj8Q/giphy.gif" width="100" /><br>
+      <img src="/gifs/Soccer%20Goal%20GIF.gif" width="100" /><br>
       <b>Football</b><br>
       Playing the game
     </td>
     <td align="center" width="25%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJkM253azkycndoZndqeG16dGl1MzhqYjR5eWVweDU1M3JpYTB4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="100" /><br>
+      <img src="/gifs/Life%20Code%20GIF.gif" width="100" /><br>
       <b>Side Projects</b><br>
       Learning & building
     </td>
     <td align="center" width="25%">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXcwYno4bmF1amNvNHllNXdicnp6NmZmbTF0aXo1emxsMjA4MWE5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SnuLBCX3ridLZA0ji4/giphy.gif" width="100" /><br>
+      <img src="/gifs/Speed%20Reading%20GIF.gif" width="100" /><br>
       <b>Reading</b><br>
       Expanding knowledge
     </td>
