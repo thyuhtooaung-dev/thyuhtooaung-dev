@@ -4,9 +4,9 @@
   <br/>
   <br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Thyu+Htoo+Aung!;Self-Taught+Fullstack+Developer;Problem+Solver+%26+Chess+Player" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Thyu+Htoo+Aung!;Self-Taught+Fullstack+Developer;Orchestrating+elegant,+scalable+solutions;Always+learning,+always+building" alt="Typing SVG" />
+</a>
 
   <br/>
   <br/>
@@ -185,7 +185,7 @@ I’m a self-taught Fullstack Developer who values clean code and a quiet place 
       Hitting the pavement
     </td>
     <td align="center" width="25%">
-      <img src="/gifs/Mad%20The%20Odd%Couple%20GIF%20by%20CBS" width="100" /><br>
+      <img src="/gifs/Mad%20The%20Odd%20Couple%20GIF%20by%20CBS.gif" width="100" /><br>
       <b>Chess</b><br>
       Playing the game
     </td>
