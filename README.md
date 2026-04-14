@@ -36,13 +36,13 @@
 
 <img align="right" width="250" src="/SMOL.gif" alt="coding gif" />
 
-I am a dedicated Fullstack Developer with a deep passion for mastering emerging technologies and solving complex logic puzzles. You will often find me architecting new features in my code editor or planning strategic sequences on the chessboard, as I thrive on a good challenge in any form. Right now, my primary focus is on building highly interactive, scalable web applications that push the boundaries of modern design and architecture.
+I’m a self-taught Fullstack Developer who values clean code and a quiet place to think. I specialize in building scalable applications using Next.js and NestJS, focusing on making complex system architecture feel seamless for the end user. When I’m not solving logic puzzles in my code editor, you can usually find me in a low-key jazz bar, hiking, or overthinking a chess move.
 
 <br/>
 
 <p align="left">
   <strong>Currently Learning:</strong><br/><br>
-  <img src="https://skillicons.dev/icons?i=react,ts,nestjs,aws" height="40" style="margin-top: 10px;" />
+  <img src="https://skillicons.dev/icons?i=next,ts,nestjs,docker" height="40" style="margin-top: 10px;" />
 </p>
 
 <br clear="both"/>
@@ -55,18 +55,99 @@ I am a dedicated Fullstack Developer with a deep passion for mastering emerging 
 
 <div align="center">
 
-**Frontend Architecture** <br/><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" height="45" />
+### Frontend Development
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="React" />
+<br>NextJS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br>Vite
+</td>
+</tr>
+</table>
 
-<br/>
+### Backend Development
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+<br>Laravel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Python" />
+<br>Express.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="C++" />
+<br>NestJS
+</td>
+</tr>
+</table>
 
-**Backend Engineering** <br/><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="45" />
-
-<br/>
-
-**DevOps & Workflow** <br/><br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" height="45" />
+### Database & DevOps
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>Postgres
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="GitHub" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Postman" />
+<br>CI/CD
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -104,8 +185,8 @@ I am a dedicated Fullstack Developer with a deep passion for mastering emerging 
       Hitting the pavement
     </td>
     <td align="center" width="25%">
-      <img src="/gifs/Soccer%20Goal%20GIF.gif" width="100" /><br>
-      <b>Football</b><br>
+      <img src="/gifs/Mad%20The%20Odd%Couple%20GIF%20by%20CBS" width="100" /><br>
+      <b>Chess</b><br>
       Playing the game
     </td>
     <td align="center" width="25%">
@@ -121,4 +202,23 @@ I am a dedicated Fullstack Developer with a deep passion for mastering emerging 
   </tr>
 </table>
 
+</div>
+<br>
+
+---
+
+### Let's Connect
+
+<br>
+
+<div align="center">
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Reach out to me via **Gmail**.
+
+[![Gmail](https://img.shields.io/badge/Gmail-thyuhtoo7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thyuhtoo7@gmail.com)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D14836&height=100&section=footer" width="100%"/>
 </div>
