@@ -58,31 +58,31 @@ I’m a self-taught Fullstack Developer who values clean code and a quiet place 
 ### Frontend Development
 <table>
 <tr>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
 <br>TypeScript
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
 <br>HTML5
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
 <br>CSS3
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
 <br>React
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="NextJS" />
 <br>NextJS
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
 <br>Vite
 </td>
@@ -92,23 +92,23 @@ I’m a self-taught Fullstack Developer who values clean code and a quiet place 
 ### Backend Development
 <table>
 <tr>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
 <br>PHP
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
 <br>Laravel
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
 <br>Node.js
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
 <br>Express.js
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
 <br>NestJS
 </td>
@@ -118,31 +118,31 @@ I’m a self-taught Fullstack Developer who values clean code and a quiet place 
 ### Database & DevOps
 <table>
 <tr>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
 <br>MySQL
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
 <br>Postgres
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
 <br>Git
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br>Docker
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
 <br>Linux
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
 <br>Postman
 </td>
-<td align="center" width="70">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
 <br>CI/CD
 </td>
@@ -185,22 +185,22 @@ I’m a self-taught Fullstack Developer who values clean code and a quiet place 
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="160">
       <img src="./gifs/Tom%20Hanks%20Running%20GIF.gif" width="100" alt="Running" /><br>
       <b>Running</b><br>
       Hitting the pavement
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="160">
       <img src="./gifs/Mad%20The%20Odd%20Couple%20GIF%20by%20CBS.gif" width="100" alt="Chess" /><br>
       <b>Chess</b><br>
       Playing the game
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="160">
       <img src="./gifs/Life%20Code%20GIF.gif" width="100" alt="Side Projects" /><br>
       <b>Side Projects</b><br>
       Learning & building
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="160">
       <img src="./gifs/Speed%20Reading%20GIF.gif" width="100" alt="Reading" /><br>
       <b>Reading</b><br>
       Expanding knowledge
