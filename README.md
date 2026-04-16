@@ -14,8 +14,8 @@
   <a href="https://x.com/Poung_Mont" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://www.facebook.com/poungmont.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://open.spotify.com/user/czri3yzo2zzm4ay8z4t8iuzqw?si=29d4d32d3ece43be" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
   <a href="https://leetcode.com/u/PoungMont/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
@@ -36,7 +36,9 @@
 
 <img align="right" width="250" src="./gifs/SMOL.gif" alt="coding gif" />
 
+<p style="font-size: 18px;">
 I’m a self-taught Fullstack Developer who values clean code and a quiet place to think. I specialize in building scalable applications using Next.js and NestJS, focusing on making complex system architecture feel seamless for the end user. When I’m not solving logic puzzles in my code editor, you can usually find me in a low-key jazz bar, hiking, or overthinking a chess move.
+</p>
 
 <br/>
 
@@ -56,17 +58,14 @@ I’m a self-taught Fullstack Developer who values clean code and a quiet place 
 <div align="center">
 
 ### Frontend Development
-<br>
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,vite" alt="Frontend Tech Stack" />
 <br><br>
 
 ### Backend Development
-<br>
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs" alt="Backend Tech Stack" />
 <br><br>
 
 ### Database & DevOps
-<br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,linux,postman,githubactions" alt="Database and DevOps Tech Stack" />
 <br><br>
 
@@ -104,33 +103,30 @@ I’m a self-taught Fullstack Developer who values clean code and a quiet place 
 
 <div align="center">
 
-<p align="left">
-  <img src="./gifs/Tom%20Hanks%20Running%20GIF.gif" width="70" align="left" alt="Running" />
-  &nbsp;&nbsp;&nbsp;<b>Running</b><br>
-  &nbsp;&nbsp;&nbsp;Hitting the pavement
-</p>
-<br clear="all" /><br/>
-
-<p align="left">
-  <img src="./gifs/Mad%20The%20Odd%20Couple%20GIF%20by%20CBS.gif" width="70" align="left" alt="Chess" />
-  &nbsp;&nbsp;&nbsp;<b>Chess</b><br>
-  &nbsp;&nbsp;&nbsp;Playing the game
-</p>
-<br clear="all" /><br/>
-
-<p align="left">
-  <img src="./gifs/Life%20Code%20GIF.gif" width="70" align="left" alt="Side Projects" />
-  &nbsp;&nbsp;&nbsp;<b>Side Projects</b><br>
-  &nbsp;&nbsp;&nbsp;Learning & building
-</p>
-<br clear="all" /><br/>
-
-<p align="left">
-  <img src="./gifs/Speed%20Reading%20GIF.gif" width="70" align="left" alt="Reading" />
-  &nbsp;&nbsp;&nbsp;<b>Reading</b><br>
-  &nbsp;&nbsp;&nbsp;Expanding knowledge
-</p>
-<br clear="all" />
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <img src="./gifs/Tom%20Hanks%20Running%20GIF.gif" width="100" alt="Running" /><br>
+      <b>Running</b><br>
+      Hitting the pavement
+    </td>
+    <td align="center" width="160">
+      <img src="./gifs/Mad%20The%20Odd%20Couple%20GIF%20by%20CBS.gif" width="100" alt="Chess" /><br>
+      <b>Chess</b><br>
+      Playing the game
+    </td>
+    <td align="center" width="160">
+      <img src="./gifs/Life%20Code%20GIF.gif" width="100" alt="Side Projects" /><br>
+      <b>Side Projects</b><br>
+      Learning & building
+    </td>
+    <td align="center" width="160">
+      <img src="./gifs/Speed%20Reading%20GIF.gif" width="100" alt="Reading" /><br>
+      <b>Reading</b><br>
+      Expanding knowledge
+    </td>
+  </tr>
+</table>
 
 </div>
 <br>
